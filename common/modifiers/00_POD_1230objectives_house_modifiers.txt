@@ -1,0 +1,21 @@
+﻿ventrue_landed_house_modifier = {
+	icon = prestige_positive
+	monthly_prestige_gain_mult = 0.15
+	dynasty_house_opinion = 10
+	monthly_legitimacy_add = 0.5
+}
+
+vizier_house = {
+	icon = stewardship_positive
+	stewardship = 1
+}
+
+sorcerer_house = {
+	icon = magic_positive
+	learning = 1
+}
+
+warrior_house = {
+	icon = martial_positive
+	prowess = 1
+}

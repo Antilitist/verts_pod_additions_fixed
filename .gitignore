@@ -1,0 +1,13 @@
+# verts_pod_additions_fixed
+
+CK3 mod: PoD additions fixed
+
+Uploaded from Antilitist local mod folder.
+Source: $src
+"@ | Set-Content -Path (Join-Path X:\Users\USER\Desktop\Grokbot Docs\github-uploads\verts_pod_additions_fixed 'README.md') -Encoding UTF8
+  @"
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.log
+*.tmp
